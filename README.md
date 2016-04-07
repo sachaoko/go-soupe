@@ -1,1 +1,2 @@
-# go-soupe
+# go_soupe
+Go soupe
