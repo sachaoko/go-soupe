@@ -1,2 +1,2 @@
-# Go Soupe
+# Oh my soup
 ## La soupe en ligne
