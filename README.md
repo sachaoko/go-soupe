@@ -1,2 +1,2 @@
-# go_soupe
-Go soupe
+# Go Soupe
+## La soupe en ligne
