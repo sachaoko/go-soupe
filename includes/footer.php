@@ -1,16 +1,21 @@
   <footer class="page-footer deep-orange lighten-1">
           <div class="container">
             <div class="row">
-              <div class="col l6 s12">
-                <h5 class="white-text">Footer Content</h5>
-                <p class="grey-text text-lighten-4"><img src="img/logooms64blanc.png" alt="logo soupe"></p>
+              <div class="col l2 s12">
+                <h5 class="white-text"></h5>
+                <p class="grey-text text-lighten-4"><img src="img/logo_footer.png" alt="logo soupe"></p>
               </div>
+
               <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Links</h5>
                 <ul>
                   <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
 
                 </ul>
+              </div>
+              <div class="col l2 s12">
+                <h5 class="white-text"></h5>
+                <p class="grey-text text-lighten-4"><img src="img/bad.png" alt="logo soupe"></p>
               </div>
             </div>
           </div>

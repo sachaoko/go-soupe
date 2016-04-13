@@ -14,6 +14,14 @@ Slider
             <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
             </div>-->
         </li>
+        <li>
+            <img src="img/carou.jpg">
+            <!-- random image -->
+            <!--   <div class="caption left-align">
+            <h3>This is our big Tagline!</h3>
+            <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+            </div>-->
+        </li>
     </ul>
 </div>
 
@@ -29,21 +37,21 @@ Slider
     </div>
     <div class="row">
         <div class="icons-container">
-            <div class="col s4">
+            <div class="col l4 s12">
                 <div class="center promo promo-example">
                     <i class="material-icons icons-home">stars</i>
                     <p class="promo-caption">Soupe Premium</p>
                     <p class="light center">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components.</p>
                 </div>
             </div>
-            <div class="col s4">
+            <div class="col l4 s12">
                 <div class="center promo promo-example">
                     <i class="material-icons icons-home">shopping_cart</i>
                     <p class="promo-caption">Votre soupe en ligne</p>
                     <p class="light center">By utilizing elements and principles of Material Design, we were able to create a framework that focuses on User Experience.</p>
                 </div>
             </div>
-            <div class="col s4">
+            <div class="col l4 s12">
                 <div class="center promo promo-example">
                     <i class="material-icons icons-home">thumb_up</i>
                     <p class="promo-caption">La soupe c'est cool </p>
@@ -58,7 +66,7 @@ Slider
 
 
     <div class="row">
-        <div class="col s3">
+        <div class="col l3 s12">
             <div class="card">
                 <div class="card-image">
                     <img src="img/soupe_p1.jpg">
@@ -72,7 +80,7 @@ Slider
                 </div>
             </div>
         </div>
-        <div class="col s3">
+        <div class="col l3 s12">
             <div class="card">
                 <div class="card-image">
                     <img src="img/soupe_p1.jpg">
@@ -86,7 +94,7 @@ Slider
                 </div>
             </div>
         </div>
-        <div class="col s3">
+        <div class="col l3 s12">
             <div class="card">
                 <div class="card-image">
                     <img src="img/soupe_p1.jpg">
@@ -100,7 +108,7 @@ Slider
                 </div>
             </div>
         </div>
-        <div class="col s3">
+        <div class="col l3 s12">
             <div class="card">
                 <div class="card-image">
                     <img src="img/soupe_p1.jpg">

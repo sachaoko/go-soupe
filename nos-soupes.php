@@ -59,7 +59,7 @@
     foreach ($soupes AS $id_soups => $soupe) {
       foreach ($infos AS $dept) {
           if ($dept['price'] == $id_soups) {
-        echo "<div class=\"col s6 l4\"><div class=\"card\">
+        echo "<div class=\"col s12 l4\"><div class=\"card\">
         <div class=\"card-image waves-effect waves-block waves-light\">
           <img class=\"activator\" src=\"".$dept['img']."\">
         </div>
