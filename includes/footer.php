@@ -9,7 +9,7 @@
                 <h5 class="white-text">Links</h5>
                 <ul>
                   <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-                 
+
                 </ul>
               </div>
             </div>
@@ -21,7 +21,7 @@
             </div>
           </div>
         </footer>
-            
+
 
 </body>
 </html>
@@ -32,5 +32,8 @@
  $(document).ready(function(){
       $('.slider').slider({full_width: true});
     });
-        
+    $(document).ready(function() {
+      $('select').material_select();
+    });
+             
 </script>

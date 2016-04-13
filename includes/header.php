@@ -18,7 +18,7 @@ navigation
 -->
 <nav class="deep-orange lighten-1">
     <div class="nav-wrapper container deep-orange lighten-1">
-        <a href="#" class="brand-logo"><img src="img/logooms64blanc.png" alt="Un kiwi en SVG">
+        <a href="index.php" class="brand-logo"><img src="img/logooms64blanc.png" alt="logo soupe">
         </a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li><a href="nos-soupes.php">Nos soupes</a>
@@ -29,4 +29,4 @@ navigation
             </li>
         </ul>
     </div>
-</nav>  
+</nav>
