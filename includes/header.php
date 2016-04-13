@@ -28,5 +28,16 @@ navigation
             <li><a href="contact.php">Nous contacter</a>
             </li>
         </ul>
+
+        <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
+
     </div>
 </nav>
+<ul id="nav-mobile" class="right menu_mobile">
+    <li><a href="nos-soupes.php">Nos soupes</a>
+    </li>
+    <li><a href="notre-histoire.php">Notre histoire</a>
+    </li>
+    <li><a href="contact.php">Nous contacter</a>
+    </li>
+</ul>

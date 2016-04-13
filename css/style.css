@@ -14,3 +14,29 @@ flex-direction: column;
 main {
 flex: 1 0 auto;
 }
+@media only screen and (min-width: 768px) {
+    /* tablets and desktop */
+    .menu_mobile{
+      display: none;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    /* phones */
+    .menu_mobile{
+      display: -webkit-box;
+    }
+    .menu_mobile li{
+      padding:20px
+    }
+}
+
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+    /* portrait phones */
+    .menu_mobile{
+      display: -webkit-box;
+    }
+    .menu_mobile li{
+      padding:20px
+    }
+    }
