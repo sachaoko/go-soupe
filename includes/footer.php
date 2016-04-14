@@ -10,9 +10,12 @@
             <p class="grey-text text-lighten-4"><img src="img/logo_footer.png" alt="logo soupe"></p>
          </div>
          <div class="col l4 offset-l2 s12">
-            <h5 class="white-text">Links</h5>
+            <h5 class="white-text">Soup around the world</h5>
             <ul>
-               <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
+               <li><a class="grey-text text-lighten-3" target="_blank" href="http://chinese.food.com/topic/chinese-soups">China</a></li>
+               <li><a class="grey-text text-lighten-3" target="_blank" href="http://chinese.food.com/topic/chinese-soups">England</a></li>
+               <li><a class="grey-text text-lighten-3" target="_blank" href="http://chinese.food.com/topic/chinese-soups">Brazil</a></li>
+               <li><a class="grey-text text-lighten-3" target="_blank" href="http://chinese.food.com/topic/chinese-soups">Russia</a></li>
             </ul>
          </div>
          <div class="col l2 s12">
