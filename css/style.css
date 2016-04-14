@@ -1,49 +1,51 @@
-.icons-home{
+.icons-home {
     color: #ff7043;
-
 }
 .icons-container i {
     font-size: 100px;
 }
 body {
-display: flex;
-min-height: 100vh;
-flex-direction: column;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
-
 main {
-flex: 1 0 auto;
+    flex: 1 0 auto;
 }
-.logo_soup{
-  padding-top:10px;
+.logo_soup {
+    padding-top: 10px;
 }
 
 
+/*
+Responsive menu
 
+*/
 
 @media only screen and (min-width: 768px) {
     /* tablets and desktop */
-    .menu_mobile{
-      display: none;
+    
+    .menu_mobile {
+        display: none;
     }
 }
-
 @media only screen and (max-width: 767px) {
     /* phones */
-    .menu_mobile{
-      display: -webkit-box;
+    
+    .menu_mobile {
+        display: -webkit-box;
     }
-    .menu_mobile li{
-      padding:20px
+    .menu_mobile li {
+        padding: 20px
     }
 }
-
 @media only screen and (max-width: 767px) and (orientation: portrait) {
     /* portrait phones */
-    .menu_mobile{
-      display: -webkit-box;
+    
+    .menu_mobile {
+        display: -webkit-box;
     }
-    .menu_mobile li{
-      padding:20px
+    .menu_mobile li {
+        padding: 20px
     }
-    }
+}

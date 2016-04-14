@@ -1,5 +1,12 @@
 # Oh my soup
-## La soupe en ligne
+## La soupe en ligne 
+html 
+css
+PHP
+Javascript
+materializecss
+
+
 ![GitHub Logo](/img/logo_footer.png)  
 Une étincelle d’amour au bord du potager de notre grand mère, c’est ce dont il nous a suffit pour faire germer dans nos coeurs la graine de l’amour. L’amour de la terre, des bonnes choses, et surtout des légumes ! Après quelques audacieuses manoeuvres d’alchimistes et l’alléchant fumet se dégageant de la marmite, nous n’avions plus qu’une certitude: La soupe, c’est la vie.
 
