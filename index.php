@@ -28,11 +28,11 @@ Slider
 <div class="container">
     <div class="row">
         <h2 class="center-align"> La soupe notre métier</h2>
-        <p class="center-align">Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion daikon amaranth tatsoi tomatillo melon azuki bean garlic.</p>
+        <p class="center-align">Une étincelle d’amour au bord du potager de notre grand mère, c’est ce dont il nous a suffit pour faire germer dans nos coeurs la graine de l’amour. L’amour de la terre, des bonnes choses, et surtout des légumes !
+Après quelques audacieuses manoeuvres d’alchimistes et l’alléchant fumet se dégageant de la marmite, nous n’avions plus qu’une certitude: La soupe, c’est la vie.</p>
 
-        <p class="center-align">Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.</p>
-
-        <p class="center-align">Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.</p>
+        <p class="center-align">De la culture des précieux végétaux à la préparation minutieuse de nos délicieuses soupes, notre armée de grands-mères veille avec tendresse à la qualité irréprochable de nos préparations.
+Après un bon repas et un bisous, nul doute que vous vous écrierez avec elles: la soupe, c’est cool.</p>
 
     </div>
     <div class="row">
@@ -41,21 +41,24 @@ Slider
                 <div class="center promo promo-example">
                     <i class="material-icons icons-home">stars</i>
                     <p class="promo-caption">Soupe Premium</p>
-                    <p class="light center">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components.</p>
+                    <p class="light center">Des légumes naturels cultivés en France, de l’attention, beaucoup d’amour, et rien de plus !
+</p>
                 </div>
             </div>
             <div class="col l4 s12">
                 <div class="center promo promo-example">
                     <i class="material-icons icons-home">shopping_cart</i>
                     <p class="promo-caption">Votre soupe en ligne</p>
-                    <p class="light center">By utilizing elements and principles of Material Design, we were able to create a framework that focuses on User Experience.</p>
+                    <p class="light center">Du bonheur pour votre ventre en quelques clics
+</p>
                 </div>
             </div>
             <div class="col l4 s12">
                 <div class="center promo promo-example">
                     <i class="material-icons icons-home">thumb_up</i>
                     <p class="promo-caption">La soupe c'est cool </p>
-                    <p class="light center">We have provided detailed documentation as well as specific code examples to help new users get started.</p>
+                    <p class="light center">C’est bon, c’est chaud, et ça forge les biscotos.
+</p>
                 </div>
             </div>
         </div>

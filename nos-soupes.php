@@ -8,48 +8,49 @@
 
 
   <?php  $soupes = [
-    1 =>'soupe 1',
-    2=>'soupe 2',
-    3 =>'soupe 3',
-    4 =>'soupe 4',
-    5 =>'soupe 5',
-    6 =>'soupe 6',
+    1 =>'Charlie the Unicorn',
+    2=>'Barbie Girl',
+    3 =>'Knacki Soup',
+    4 =>'La Jeanne-D’arc',
+    5 =>'Gingers do have a soul',
+    6 =>'Bobo-Poireau',
 
     ];
 
     $infos = [
       1 => [
-            'nom' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vestibulum, justo at dapibus semper, ipsum metus eleifend orci, quis dignissim arcu tortor ut est. Suspendisse gravida consectetur tellus in maximus. Vestibulum vehicula magna id nisi pharetra, eget mollis turpis mollis. Nulla maximus urna eu felis finibus, non sodales lacus aliquet. Vestibulum id ipsum nec ipsum tristique gravida sit amet id erat. Nam consectetur aliquam lorem, a viverra turpis hendrerit vitae. Morbi porta suscipit nisl, a bibendum nibh tempus ac.',
+            'nom' => 'On ne nous croyait pas quand on a dit qu’on allait cultiver des licornes. Puis on en a eu marre d\'être victime des colifichets, et on a voulu être considéré en tant que tel.',
             'price' => 1,
-            'img'=>'img/soupe1.jpg'
+            'img'=>'img/soupes/soupe-1.jpg'
           ],
 
      2 => [
-            'nom' => 'soupe 2',
+            'nom' => 'Au début, on voulait mettre des paillettes, des chatons et des vaches qui font du kiri, mais en fait c’est juste de la betterave, et du lait de vaches qui font du kiri, quand même.',
             'price' => 2,
-            'img'=>'img/soupe1.jpg'
+            'img'=>'img/soupes/soupe-2.jpg'
           ],
      3 => [
-            'nom' => 'soupe 3',
+            'nom' => 'Mais… T’avais dit qu’on ferait des Knacki...',
             'price' => 3,
-            'img'=>'img/soupe1.jpg'
+            'img'=>'img/soupes/soupe-3.jpg'
           ],
      4 => [
-            'nom' => 'soupe 4',
+            'nom' => 'Un boeuf longuement mijoté dans des épices, des tomates fraîches et un carpaccio de gingembre agrémenté de nouilles de riz roulées à la main, il en Pho peu pour être heureux',
             'price' => 4,
-            'img'=>'img/soupe1.jpg'
+            'img'=>'img/soupes/soupe-4.jpg'
           ],
 
      5 => [
-            'nom' => 'soupe 5',
+            'nom' => 'Des poires tendrement épluchées, du bouillon de poulet pour le goût, et évidemment un poil de carotte pour une pause soupe un brin sucrée, et tout en douceur.',
             'price' => 5,
-            'img'=>'img/soupe1.jpg'
+            'img'=>'img/soupes/soupe-5.jpg'
           ],
 
      6 => [
-            'nom' => 'Soupe 6',
+            'nom' => 'C’est tout simple, on a des poireaux bio équitables d’un petit producteur au Guatemala importés par vélo, des pommes de terre sans gluten et du radis noir de Yougoslavie dans une verrine Ikea.
+Tout simple on vous a dit !',
             'price' => 6,
-            'img'=>'img/soupe1.jpg'
+            'img'=>'img/soupes/soupe-6.jpg'
           ]
 
     ];
@@ -61,7 +62,7 @@
           if ($dept['price'] == $id_soups) {
         echo "<div class=\"col s12 l4\"><div class=\"card\">
         <div class=\"card-image waves-effect waves-block waves-light\">
-          <img class=\"activator\" src=\"".$dept['img']."\">
+          <img class=\"activator img-produit\" src=\"".$dept['img']."\">
         </div>
         ";
 
@@ -70,9 +71,8 @@
                         <p>".$dept['price']."€</p>
                       </div>
                       <div class=\"card-reveal\">
-                        <span class=\"card-title grey-text text-darken-4\">Card Title<i class=\"material-icons right\">close</i></span>
-                        <p>" .$dept['nom']."<br>
-                          Here is some more information about this product that is only revealed once clicked on.</p>
+                        <span class=\"card-title grey-text text-darken-4\">".$soupe."<i class=\"material-icons right\">close</i></span>
+                        <p>" .$dept['nom']."<br><br>".$dept['price']."€ 
                                 </div>
                               </div>
                                        </div>";
