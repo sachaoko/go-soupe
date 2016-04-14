@@ -1,10 +1,10 @@
 # Oh my soup
 ## La soupe en ligne 
-html 
-css
-PHP
-Javascript
-materializecss
+* html 
+* css
+* PHP
+* Javascript
+* materializecss
 
 
 ![GitHub Logo](/img/logo_footer.png)  
